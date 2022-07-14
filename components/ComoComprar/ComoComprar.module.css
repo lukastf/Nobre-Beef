@@ -1,0 +1,35 @@
+
+
+.logo {
+    width: 6rem;
+    height: 6rem;
+    /*margin-left: 5rem;*/
+  }
+  
+@media only screen and (max-width: 600px) {
+    .logo {
+    }
+}
+
+.h1 {
+    font-weight: bold;
+}
+
+.comprar {
+    color: #85160d;
+    font-weight: 700;
+    text-align: center;
+}
+
+.comprar img {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.comprar3 img {
+    margin-top: 4rem;
+}
+
+.comprar4 img {
+    margin-top: 5.5rem;
+}

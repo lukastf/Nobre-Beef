@@ -1,0 +1,23 @@
+
+
+.footer {
+
+    color: white;
+    margin-bottom:0;
+    background-color: #343a40;
+    /*padding: 3rem;
+    padding-bottom: 2rem;*/
+    padding: 1.5rem;
+    margin-top: 2rem;
+    z-index: 1;
+    position: relative;
+}
+  
+.footer p {
+    margin: 0;
+}
+
+.links p a {
+    color: white;
+    text-decoration: none;
+}

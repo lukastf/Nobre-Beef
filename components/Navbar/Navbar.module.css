@@ -1,0 +1,50 @@
+
+.logo {
+  width: 14rem;
+  height: 13rem;
+  margin-bottom: -9.5rem;
+  z-index: 1;
+  position: relative;
+  margin-left: -2rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .logo {
+    width: 12rem;
+    height: 9rem;
+    margin-bottom: 0;
+    z-index: 1;
+    position: relative;
+    margin-left: 0;
+  }
+}
+
+.textStyle p {
+  color: white;
+  text-align: center;
+}
+
+.textStyle2 p {
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.textStyle2:hover {
+  color: red;
+  background-color: #efd9ad;
+}
+
+.textStyle2 p:hover {
+  color: red;
+}
+
+.pesquisa {
+  position: fixed;
+  display: block;
+  z-index: 2;
+}
+
+.pointer {
+  cursor: pointer;
+}

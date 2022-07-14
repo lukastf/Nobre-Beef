@@ -1,0 +1,22 @@
+
+.logo {
+    width: 6rem;
+    height: 6rem;
+}
+.produto img {
+    height: 20rem;
+}
+    
+@media only screen and (max-width: 600px) {
+    .logo {
+    }
+    .produto img {
+        height: 10rem;
+    }
+}
+
+.btn {
+    color: #fff;
+    background-color: rgb(148, 23, 1);
+    border-color: rgb(148, 23, 1);
+}

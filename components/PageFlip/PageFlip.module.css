@@ -1,0 +1,26 @@
+
+/*.img {
+    width: 1000px;
+    height: 500px;
+}*/
+
+.img {
+    width: 84.7rem;
+    height: 30rem;
+    margin-left: -2rem;
+    margin-top: -0.7rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .img {
+        width: 20.7rem;
+        height: 14rem;
+        margin-left: -2rem;
+        margin-top: -1rem;
+    }
+}
+
+.pages {
+
+    
+}

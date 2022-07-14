@@ -1,0 +1,14 @@
+.btn {
+    color: #fff;
+    background-color: rgb(148, 23, 1);
+    border-color: rgb(148, 23, 1);
+}
+
+.loginError {
+    color: red;
+}
+
+.imgEnviada {
+    width: 10rem;
+    height: 10rem;
+}

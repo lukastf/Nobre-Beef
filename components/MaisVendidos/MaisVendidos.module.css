@@ -1,0 +1,34 @@
+
+
+.logo {
+    width: 6rem;
+    height: 6rem;
+    /*margin-left: 5rem;*/
+}
+  
+@media only screen and (max-width: 600px) {
+    .logo {
+    }
+}
+
+.h1 {
+    font-weight: bold;
+}
+
+.imgCarousel {
+    width: 20rem;
+    height: 20rem;
+}
+
+.carouselItem {
+    text-align: center;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.pointer {
+    cursor: pointer;
+}

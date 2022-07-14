@@ -1,0 +1,26 @@
+
+.logo {
+  width: 6rem;
+  height: 6rem;
+  /*margin-left: 2rem;*/
+}
+
+.produto img {
+  height: 20rem;
+}
+  
+@media only screen and (max-width: 600px) {
+  .logo {
+  }
+  .produto img {
+    height: 10rem;
+  }
+}
+
+.h1 {
+  font-weight: bold;
+}
+
+.produto {
+  text-align: center;
+}
